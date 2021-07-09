@@ -1,1 +1,1 @@
-<?php echo "triger";
+<?php echo "trigger";
